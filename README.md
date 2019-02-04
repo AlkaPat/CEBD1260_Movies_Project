@@ -1,1 +1,1 @@
-# CEBD1260_Project
+# CEBD1260_Movies_Project
