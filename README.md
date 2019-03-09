@@ -1,1 +1,1 @@
-# CEBD1260_Movies_Project
+Movies Revenue Prediction
